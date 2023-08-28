@@ -1,18 +1,17 @@
-## Getting Started
+## Desafio Java Dio
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório é parte da entrega de um projeto durante os estudos de desenvolvimento Java na plataforma [Dio](https://www.dio.me/) para o curso: Santander Bootcamp 2023 - Backend Java
 
-## Folder Structure
+## Descrição do Desafio
 
-The workspace contains two folders by default, where:
+O sistema deverá receber dois parâmetros via terminal que representarão dois números inteiros, com estes dois números você deverá obter a quantidade de interações (for) e realizar a impressão no console (System.out.print) dos números incrementados.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+**Pré-requisitos:**
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Lógica de programação e POO;
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Conhecimentos básicos em Java;
 
-## Dependency Management
+- Computador com SO de sua preferência(Windows, Linux, Mac OS);
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- IDE (Visual Studio Code, Eclipse, etc);
